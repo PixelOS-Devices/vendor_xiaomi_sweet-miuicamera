@@ -23,7 +23,6 @@
 /vendor/lib(64)?/libflaw\.so                                                     u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libHalSuperSensorServerCWrapper\.so                             u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libHalSuperSensorServer\.so                                     u:object_r:same_process_hal_file:s0
-/vendor/lib(64)?/libhta_hexagon_runtime\.so                                      u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libhvx_interface\.so                                            u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libMIAIHDRhvx_interface\.so                                     u:object_r:same_process_hal_file:s0
 /vendor/lib(64)?/libmiai_portraitsupernight\.so                                  u:object_r:same_process_hal_file:s0
